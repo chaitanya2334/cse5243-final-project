@@ -1,4 +1,4 @@
-# cse5243-proj
+# cse5243-final-project
 
 ## Setup Conda Environment 
 
